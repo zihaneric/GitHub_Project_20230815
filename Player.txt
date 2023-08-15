@@ -1,1 +1,1 @@
-bool isDead = false;
+int speed =100;
